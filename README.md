@@ -1,6 +1,6 @@
 <h1 align="center"> Hello There 👋 </h1>
 
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:caohanzong?theme=rule34">
 
 
 * 我是[Snicker](https://github.com/caohanzong) :blush:
