@@ -28,13 +28,15 @@
 <a href="https://vant-contrib.gitee.io/vant/v3/#/zh-CN"><code><img height="20" src="./images/vant.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
+<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" style="zoom:80%;" />
+
 ### 开源项目:
 
 [![Myblog-snicker](https://github-readme-stats.vercel.app/api/pin/?username=caohanzong&repo=Myblog-snicker)](https://github.com/caohanzong/Myblog-snicker)
 
 [![Course-scheduling-system](https://github-readme-stats.vercel.app/api/pin/?username=caohanzong&repo=Course-scheduling-system)](https://github.com/caohanzong/Course-scheduling-system)
 
-<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+
 
 
 
