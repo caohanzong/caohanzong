@@ -1,4 +1,26 @@
+<h1 align="center"> Hello There 👋 </h1>
+
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+
+
+* 我是　[Snicker](https://github.com/caohanzong) :blush:
+* 一个大三的，写代码的，什么都搞。热衷开源项目。🤔
+* 喜欢研究一些新鲜的事物，喜欢音乐🎶，看电影📖，下围棋👨‍🚀
+* 如果你想要找到我，欢迎光临我的博客 [Snicker's Blog](https://snicker.top) 🎊🎊🎊🎊🎊🎊
+
+
+
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](
+
+
+
+
+
+
+
+
 
 ## 前端工程师—天平
 
@@ -26,9 +48,7 @@
 [![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
 <br><br><br>
 
-### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty)
