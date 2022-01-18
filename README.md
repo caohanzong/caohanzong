@@ -18,15 +18,15 @@
 
 
 
-
-
-<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%"  />
-
 ### 开源项目:
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=caohanzong&repo=Myblog-snicker" alt="Myblog-snicker"  />](https://github.com/caohanzong/Myblog-snicker)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=caohanzong&repo=Myblog-snicker" alt="Myblog-snicker"  />](https://github.com/caohanzong/Myblog-snicker)[<img src="https://github-readme-stats.vercel.app/api/pin/?username=caohanzong&repo=Course-scheduling-system" alt="Course-scheduling-system"  />](https://github.com/caohanzong/Course-scheduling-system)
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=caohanzong&repo=Course-scheduling-system" alt="Course-scheduling-system"  />](https://github.com/caohanzong/Course-scheduling-system)
+
+
+
+
+
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=caohanzong&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caohanzong&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
