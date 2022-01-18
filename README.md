@@ -12,25 +12,13 @@
 
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](
+[![](https://activity-graph.herokuapp.com/graph?username=caohanzong&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
+<img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
 
-
-
-
-
-## 前端工程师—天平
-
-热爱前端、热爱技术。工作经验半年。喜欢参与一些开源项目的讨论。
-
-### **社交主页：**
-
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
-
--   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：发表了 25 篇技术文章，4万阅读
 
 ### **技术栈:**
 
@@ -44,11 +32,17 @@
 
 ### 开源项目
 
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=qq-bot)](https://github.com/Minori-ty/qq-bot)
-[![qq-bot](https://github-readme-stats.vercel.app/api/pin/?username=Minori-ty&repo=vue3-electron-serialport)](https://github.com/Minori-ty/vue3-electron-serialport)
+[![Myblog-snicker](https://github-readme-stats.vercel.app/api/pin/?username=caohanzong&repo=Myblog-snicker)](https://github.com/caohanzong/Myblog-snicker)
+[![Course-scheduling-system](https://github-readme-stats.vercel.app/api/pin/?username=caohanzong&repo=Course-scheduling-system)](https://github.com/caohanzong/Course-scheduling-system)
+
 <br><br><br>
 
 https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+![caohanzong's github stats](https://github-readme-stats.vercel.app/api?username=caohanzong&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caohanzong)
+
+
+
