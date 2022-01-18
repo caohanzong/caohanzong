@@ -18,23 +18,17 @@
 
 
 
-### **技术栈:**
 
-<a href="https://v3.cn.vuejs.org"><code><img height="20" src="./images/vue.png"></code></a>
-<a href="https://www.tslang.cn/index.html"><code><img height="20" src="./images/typescript.png"></code></a>
-<a href="https://cn.vitejs.dev"><code><img height="20" src="./images/vite.png"></code></a>
-<a href="https://less.bootcss.com"><code><img height="20" src="./images/less.png"></code></a>
-<a href="https://element-plus.org/#/zh-CN"><code><img height="20" src="./images/element plus.svg"></code></a>
-<a href="https://vant-contrib.gitee.io/vant/v3/#/zh-CN"><code><img height="20" src="./images/vant.png"></code></a>
-<a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
 
 <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" style="zoom:80%;" />
 
 ### 开源项目:
 
-[![Myblog-snicker](https://github-readme-stats.vercel.app/api/pin/?username=caohanzong&repo=Myblog-snicker)](https://github.com/caohanzong/Myblog-snicker)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=caohanzong&repo=Myblog-snicker" alt="Myblog-snicker" style="zoom:80%;" />](https://github.com/caohanzong/Myblog-snicker)
 
-[![Course-scheduling-system](https://github-readme-stats.vercel.app/api/pin/?username=caohanzong&repo=Course-scheduling-system)](https://github.com/caohanzong/Course-scheduling-system)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=caohanzong&repo=Course-scheduling-system" alt="Course-scheduling-system" style="zoom:80%;" />](https://github.com/caohanzong/Course-scheduling-system)
+
+
 
 
 
