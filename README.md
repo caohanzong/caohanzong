@@ -3,7 +3,7 @@
 <img align="right" src="https://count.getloli.com/get/@:caohanzong?theme=rule34">
 
 
-* 我是[Snicker](https://github.com/caohanzong) :blush:
+* 我是 [Snicker](https://github.com/caohanzong) :blush:
 * 一个大三的，写代码的，什么都搞。热衷开源项目。🤔
 * 喜欢研究一些新鲜的事物，喜欢音乐🎶，看电影📖，下围棋👨‍🚀
 * 如果你想要找到我，欢迎光临我的博客 [Snicker's Blog](https://snicker.top) 🎊🎊🎊🎊🎊🎊
